@@ -1,0 +1,6 @@
+User: Maria Payro
+Date: 2023-03-015
+
+Feedback:
+I found the temperature converter to be very easy to use and accurate in its conversions. The README file was very helpful in getting started, and the documentation was clear and easy to follow.
+
