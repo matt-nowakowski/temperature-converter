@@ -1,0 +1,22 @@
+# Python-related files
+*.pyc
+__pycache__/
+
+# IDE-related files
+.vscode/
+.idea/
+
+# Distribution packages
+dist/
+build/
+*.egg-info/
+
+# Compiled files
+*.pyd
+*.pyo
+*.so
+*.dll
+
+# Miscellaneous
+*.log
+*.DS_Store
