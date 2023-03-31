@@ -17,12 +17,13 @@ def main():
         if choice == "1":
             celsius = float(input("Enter temperature in Celsius: "))
             fahrenheit = converter.to_fahrenheit(celsius)
-            print(f"{celsius} degrees Celsius is {fahrenheit} degrees Fahrenheit.\n")
+            print("{} degrees Celsius is {} degrees Fahrenheit.\n".format(celsius, fahrenheit))
+
 
         elif choice == "2":
             fahrenheit = float(input("Enter temperature in Fahrenheit: "))
             celsius = converter.to_celsius(fahrenheit)
-            print(f"{fahrenheit} degrees Fahrenheit is {celsius} degrees Celsius.\n")
+            print("{} degrees Fahrenheit is {} degrees Celsius.\n".format(fahrenheit, celsius))
 
         elif choice == "3":
             print("Thank you for using the Temperature Converter!")
