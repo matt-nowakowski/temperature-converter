@@ -1,4 +1,4 @@
-# Temperature Converter
+# [Temperature Converter](https://github.com/matt-nowakowski/temperature-converter)
 
 This is a command-line based temperature converter that converts temperature from Celsius to Fahrenheit or vice versa. The project has been developed using Python programming language and follows the Object-Oriented Programming (OOP) paradigm. The Singleton design pattern has been implemented in this project to ensure that only one instance of the temperature converter object exists.
 
@@ -16,7 +16,7 @@ git clone https://github.com/matt-nowakowski/temperature-converter.git
 cd temperature-converter
 ```
 
-3. Run the following command to install the required packages:
+3. Run the following command to install the required packages (currently none required):
 ```
 pip install -r requirements.txt
 ```
